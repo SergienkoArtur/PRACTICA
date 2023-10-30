@@ -1,0 +1,43 @@
+﻿<Window x:Class="WpfApp3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="600">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Row="1" Grid.Column="1" >
+            <TextBlock Text="Логин" Grid.Column="1"  Grid.RowSpan="2" />
+            <TextBox Grid.Column="1" Grid.Row="1" Height="20"  x:Name="log"/>
+            <TextBlock Text="Пароль" Grid.Column="1" Grid.Row="1"  />
+            <TextBox Grid.Column="1" Grid.Row="1" Height="20"  x:Name="passw"/>
+            <Button Content="Зарегистрироваться " Name="reg" Click="vhod_Click"/>
+        </StackPanel>
+
+        <Menu Grid.Column="0" Grid.Row="0" Width="100" HorizontalAlignment="Left" Height="20">
+            <MenuItem Header="Авторизация" Width="100">
+
+                <TextBlock Text="Логин" />
+                <TextBox  Height="20" Width="100" x:Name="avt_log" />
+                <TextBlock Text="Пароль"   />
+                <TextBox  Height="20" Width="100" x:Name="avt_passw"/>
+                <Button Content="Войти" x:Name="avt_vhod" Click="avt_Click"/>
+
+            </MenuItem>
+            <Menu/>
+        </Menu>
+    </Grid>
+</Window>
