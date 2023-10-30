@@ -1,10 +1,22 @@
-<p align ="center"><a href="https://github.com/SergienkoArtur/WpfApp3.git" target="_blank"><img src="https://st.anosov.ru/groups/po01/instructions/SimpleStart/img/46.png" src=width="400"></a></p>
+<p align ="center"><a href="https://github.com/SergienkoArtur/WpfApp3.git" target="_blank"><img src="https://imgur.com/a/me32jbJ" src=width="500"></a></p>
 
+* При запуске проекта открывается окно регистрации
+
+ -----
+<img src="https://imgur.com/a/7JwsOJ6" src=width="500">
+
+* Слева в углу находится кнопка при нажатии которой вылезает окно Авторизации
+
+ -----
 <p><a href="https://github.com/SergienkoArtur/WpfApp3.git">Гит репозиторий</p>
+
 # Название приложения:Личный Кабинет.
------
+
+ -----
+ 
 ## Студентов группы 21ис-6к:Саблина Максима, Шляхтина Ильи, Сергиенко Артура, Черненко Богдана, Шарапова Ильназа.
------
+
+ -----
 
 * Наше приложение нужно, чтобы сохранять ваши личные данные в приложение.
 * Приложение полезно тем, что оно дает быстрый доступ к вашим данным, это нужно для быстрой находки ваших персональных данных, которые вам потребуются в государственных органах. 
