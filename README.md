@@ -1,4 +1,4 @@
-<p align ="center"><a href="https://github.com/SergienkoArtur/WpfApp3.git" target="_blank"><img src="https://imgur.com/a/me32jbJ" src=width="500"></a></p>
+<p align ="center"><a href="https://github.com/SergienkoArtur/WpfApp3.git" target="_blank"><img src="https://i.imgur.com/a3KFvW2.png" src=width="500"></a></p>
 
 * При запуске проекта открывается окно регистрации
 
