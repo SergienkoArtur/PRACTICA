@@ -2,7 +2,8 @@
 
 * При запуске проекта открывается окно регистрации
 
-<img src="https://i.imgur.com/pvmeQ69.png" src=width="500">
+<p align ="center"><a href="https://github.com/SergienkoArtur/WpfApp3.git" target="_blank"><img src="https://i.imgur.com/pvmeQ69.png" src=width="500"></a></p>
+
 * Слева в углу находится кнопка при нажатии которой вылезает окно Авторизации
 
  -----
