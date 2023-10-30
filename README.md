@@ -1,10 +1,10 @@
-<p align ="center"><a href="https://github.com/SergienkoArtur/WpfApp3.git" target="_blank"><img src="https://i.imgur.com/wYumph9.png" src=width="500"></a></p>
-
 * При запуске проекта открывается окно регистрации
 
-<p align ="center"><a href="https://github.com/SergienkoArtur/WpfApp3.git" target="_blank"><img src="https://i.imgur.com/pvmeQ69.png" src=width="500"></a></p>
+<p align ="center"><a href="https://github.com/SergienkoArtur/WpfApp3.git" target="_blank"><img src="https://i.imgur.com/wYumph9.png" src=width="500"></a></p>
 
 * Слева в углу находится кнопка при нажатии которой вылезает окно Авторизации
+
+<p align ="center"><a href="https://github.com/SergienkoArtur/WpfApp3.git" target="_blank"><img src="https://i.imgur.com/pvmeQ69.png" src=width="500"></a></p>
 
  -----
 <p><a href="https://github.com/SergienkoArtur/WpfApp3.git">Гит репозиторий</p>
